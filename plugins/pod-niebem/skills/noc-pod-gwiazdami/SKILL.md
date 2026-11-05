@@ -1,6 +1,6 @@
 ---
 name: noc-pod-gwiazdami
-description: Plan a night of skywatching in Poland - whether the sky is worth a look tonight or which night soon is best, for a meteor shower, the northern lights, an ISS pass, a planet or just the stars, with the dark hours, cloud cover, the moon, times and directions. Use when someone asks when or where to watch something in the night sky in Poland, whether tonight is good for the stars, or when the next shower or aurora chance is.
+description: Plan a night of skywatching in Poland - whether the sky is worth a look tonight or which night soon is best, for a meteor shower, the northern lights, an ISS pass, a planet or just the stars, with the dark hours, cloud cover, the moon, times and directions; also the asteroids passing Earth and NASA's picture of the day. Use when someone asks when or where to watch something in the night sky in Poland, whether tonight is good for the stars, when the next shower or aurora chance is, or what asteroid is flying past Earth.
 ---
 
 # A night under the stars (Poland)
@@ -26,7 +26,14 @@ every tool.
    (magnitude -2 or brighter) and the high ones, and for passes tonight or tomorrow the clouds from `tonight_sky`.
 5. **A planet** → `planets_tonight` for their city: seven nights, when each planet is at least 10° up, its highest
    point and the clouds where the forecast reaches.
-6. **Several cities** (where to drive tonight) → `tonight_sky` for each candidate city, then compare the clearest
+6. **An asteroid passing Earth** ("is anything flying past Earth this week", a news story about a near miss) →
+   `near_earth_objects` (today and the next six days, or the dates asked, seven at most): the closest first, with the
+   time, the distance in km and lunar distances, the size and NASA's "potentially hazardous" class. Be honest: almost
+   none can be seen without a telescope, and "potentially hazardous" is a class of orbit, not a coming impact; say
+   so plainly to anyone worried.
+7. **NASA's picture of the day** → `astronomy_picture`: today's picture with its title, explanation and credit (only
+   today's). Good as an extra at the end of a night's plan, or when asked.
+8. **Several cities** (where to drive tonight) → `tonight_sky` for each candidate city, then compare the clearest
    stretches. Do not call more than about 5 cities.
 
 For the exact time darkness starts and ends, or moonrise and moonset at a place that is not one of the 18 cities, use

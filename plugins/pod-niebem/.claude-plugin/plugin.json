@@ -1,7 +1,7 @@
 {
   "name": "pod-niebem",
   "displayName": "Pod niebem: sky & daylight planner",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Plan a night under the stars in Poland, a photo trip or the daylight of a trip anywhere.",
   "author": {
     "name": "doner.cloud",
@@ -19,6 +19,7 @@
     "iss",
     "aurora",
     "meteor-showers",
+    "asteroids",
     "poland"
   ],
   "documentationUrl": "https://github.com/adahyto/pod-niebem#readme",
