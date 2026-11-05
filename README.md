@@ -11,6 +11,8 @@ free MCP servers run by doner.cloud and links the page with the same data.
   passes or a planet, with the dark hours, cloud cover, the moon, times and directions.
 - **plan-zdjec**: the light for photos at a place and on given days: golden and blue hours day by day, moonrise,
   moonset and phase, the dark window for stars and the Milky Way, and the clouds where a forecast exists.
+- **karta-z-nieba**: a printable card of the sky on a birthday, a child's birth, a wedding or any day, with the
+  Moon's phase, sunrise and sunset, the planets and a QR code, for A4, A3 or an A6 greeting card.
 - **wyjazd-dzien-i-noc**: the daylight and the nights of a trip, in Poland or abroad: how much daylight for a hike,
   when it gets dark (the latest start to be back before dusk), a clock change during the trip, and whether a night will
   be dark and clear for the stars.
@@ -21,7 +23,7 @@ free MCP servers run by doner.cloud and links the page with the same data.
 | --- | --- | --- |
 | kosmos.info.pl | https://kosmos.info.pl/mcp | tonight's sky over 18 Polish cities: clouds (MET Norway), moon, ISS, aurora (NOAA Kp), planets, meteor showers |
 | slonce.info.pl | https://slonce.info.pl/mcp | sunrise, sunset, twilight, golden and blue hours, moon times and phases, any place |
-| zodiak.info.pl | https://zodiak.info.pl/mcp | where the planets are at any moment (positions only) |
+| zodiak.info.pl | https://zodiak.info.pl/mcp | where the planets are at any moment (positions only), and the sky map card of a day |
 | urlhub.cloud | https://urlhub.cloud/mcp | on request: one short link with a QR code for the plan and its pages |
 
 ## Privacy
