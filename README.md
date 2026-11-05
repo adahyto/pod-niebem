@@ -21,7 +21,7 @@ free MCP servers run by doner.cloud and links the page with the same data.
 
 | Server | Address | Gives |
 | --- | --- | --- |
-| kosmos.info.pl | https://kosmos.info.pl/mcp | tonight's sky over 18 Polish cities: clouds (MET Norway), moon, ISS, aurora (NOAA Kp), planets, meteor showers |
+| kosmos.info.pl | https://kosmos.info.pl/mcp | tonight's sky over 18 Polish cities: clouds (MET Norway), moon, ISS, aurora (NOAA Kp), planets, meteor showers; NASA's picture of the day and asteroids passing Earth |
 | slonce.info.pl | https://slonce.info.pl/mcp | sunrise, sunset, twilight, golden and blue hours, moon times and phases, any place |
 | zodiak.info.pl | https://zodiak.info.pl/mcp | where the planets are at any moment (positions only), and the sky map card of a day |
 | urlhub.cloud | https://urlhub.cloud/mcp | on request: one short link with a QR code for the plan and its pages |
