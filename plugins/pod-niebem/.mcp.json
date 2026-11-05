@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kosmos": { "type": "http", "url": "https://kosmos.info.pl/mcp" },
+    "slonce": { "type": "http", "url": "https://slonce.info.pl/mcp" },
+    "zodiak": { "type": "http", "url": "https://zodiak.info.pl/mcp" },
+    "urlhub": { "type": "http", "url": "https://urlhub.cloud/mcp" }
+  }
+}

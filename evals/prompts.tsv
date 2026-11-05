@@ -1,0 +1,11 @@
+# id	expected tools (any order; | = one of)	prompt
+1	tonight_sky	Czy dziś w nocy warto patrzeć w niebo w Krakowie?
+2	meteor_showers	When do the Geminids peak this year, and will the moon get in the way? I'm in Gdańsk.
+3	aurora_forecast,tonight_sky	Czy jest szansa na zorzę dziś w nocy pod Olsztynem?
+4	iss_passes	When can I see the ISS over Poznań this week?
+5	planets_tonight	Kiedy w tym tygodniu najlepiej zobaczyć Jowisza z Wrocławia?
+6	tonight_sky	Jedziemy dziś w nocy oglądać gwiazdy, wahamy się między okolicami Rzeszowa, Lublina i Kielc. Gdzie będzie najczyściej?
+7	sun_times	Kiedy w sobotę 7 listopada 2026 jest złota i niebieska godzina w Zakopanem?
+8	sun_times|sun_calendar	Plan the golden and blue hours for a 3-day photo trip to Lisbon, 12-14 December 2026.
+9	moon_times|moon_phases,sun_times	Chcę fotografować Drogę Mleczną w Bieszczadach w nocy 20-22 lipca 2027. Kiedy będzie najciemniej?
+10	sun_times|moon_times|tonight_sky	I want to shoot star trails near Gdańsk tonight. When is it fully dark and is the moon up?

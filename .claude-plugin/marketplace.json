@@ -1,0 +1,12 @@
+{
+  "name": "doner-cloud",
+  "description": "Plugins by doner.cloud: free tools for the sky, sunlight and sharing links",
+  "owner": { "name": "doner.cloud", "email": "aex.tomas@gmail.com" },
+  "plugins": [
+    {
+      "name": "pod-niebem",
+      "source": "./plugins/pod-niebem",
+      "description": "Plan a night under the stars or a photo trip: clouds, moon, ISS, aurora, planets, meteors, golden hour"
+    }
+  ]
+}
