@@ -1,8 +1,8 @@
 {
   "name": "pod-niebem",
   "displayName": "Pod niebem: sky & daylight planner",
-  "version": "0.2.0",
-  "description": "Plan a night under the stars in Poland, a photo trip or the daylight of a trip anywhere: the clouds, the moon, ISS passes, the northern lights, planets and meteor showers, sunrise, sunset, dusk and the golden and blue hours, from four free MCP servers by doner.cloud.",
+  "version": "0.2.1",
+  "description": "Plan a night under the stars in Poland, a photo trip or the daylight of a trip anywhere.",
   "author": {
     "name": "doner.cloud",
     "email": "aex.tomas@gmail.com",
