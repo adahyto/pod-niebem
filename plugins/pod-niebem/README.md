@@ -11,6 +11,9 @@ free MCP servers run by doner.cloud and links the page with the same data.
   passes or a planet, with the dark hours, cloud cover, the moon, times and directions.
 - **plan-zdjec**: the light for photos at a place and on given days: golden and blue hours day by day, moonrise,
   moonset and phase, the dark window for stars and the Milky Way, and the clouds where a forecast exists.
+- **wyjazd-dzien-i-noc**: the daylight and the nights of a trip, in Poland or abroad: how much daylight for a hike,
+  when it gets dark (the latest start to be back before dusk), a clock change during the trip, and whether a night will
+  be dark and clear for the stars.
 
 ## Connectors (remote MCP servers, no account or key)
 
@@ -40,7 +43,7 @@ Your conversation stays with Anthropic. Each server's policy:
 
 Pakiet dla Claude do planowania czasu pod niebem: czy dziś w nocy warto patrzeć w niebo w polskim mieście, kiedy i gdzie
 oglądać Geminidy, czy będzie zorza, kiedy przeleci ISS, które planety widać w tym tygodniu, kiedy złota i niebieska
-godzina na wyjeździe z aparatem (w dowolnym miejscu na świecie). Claude odpowiada z czterech darmowych serwerów MCP
+godzina na wyjeździe z aparatem, ile dnia na szlak i kiedy zmrok na wyjeździe (w dowolnym miejscu na świecie). Claude odpowiada z czterech darmowych serwerów MCP
 doner.cloud i podaje link do strony z tymi samymi danymi. Serwery dostają tylko miejsce, datę i nazwę zjawiska (a urlhub
 linki planu, gdy poprosisz o wspólny link) i niczego z zapytania nie zapisują.
 

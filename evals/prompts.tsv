@@ -9,3 +9,7 @@
 8	sun_times|sun_calendar	Plan the golden and blue hours for a 3-day photo trip to Lisbon, 12-14 December 2026.
 9	moon_times|moon_phases,sun_times	Chcę fotografować Drogę Mleczną w Bieszczadach w nocy 20-22 lipca 2027. Kiedy będzie najciemniej?
 10	sun_times|moon_times|tonight_sky	I want to shoot star trails near Gdańsk tonight. When is it fully dark and is the moon up?
+11	sun_times|sun_calendar	Weekend w Bieszczadach 12-13 grudnia 2026. Ile mamy dnia na szlak i do której musimy wyjść, żeby zejść przed zmrokiem przy 6 godzinach marszu?
+12	clock_change,sun_times|sun_calendar	Jedziemy na Mazury 23-26 października 2026. Kiedy wschód i zachód słońca i czy w tym czasie zmienia się czas?
+13	sun_times|sun_calendar,moon_times	Camping trip to the Scottish Highlands near Fort William, 3-5 September 2027: daylight each day, and will the nights be dark for the stars?
+14	sun_times|tonight_sky|planets_tonight	Jutro idziemy na całodniową wycieczkę w okolice Poznania i zostajemy na noc pod namiotem. Kiedy zmrok i czy będzie widać gwiazdy?
